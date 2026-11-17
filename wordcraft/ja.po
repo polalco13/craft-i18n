@@ -103,6 +103,11 @@ msgstr "<< 表示を減らす"
 msgid "<< Remove"
 msgstr "<< 削除"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "図解には最大 {MAX_ITEMS} 個の項目を含められます"
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "描画キャンバスはグループ解除できません"
 
@@ -126,6 +131,9 @@ msgstr "連番 (図、表…)"
 
 msgid "A password is required to open this document."
 msgstr "この文書を開くにはパスワードが必要です。"
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
 
 msgid "A table of contents"
 msgstr "目次"
@@ -517,6 +525,9 @@ msgstr "この文書を開くすべての人にこのパスワードが必要に
 msgid "APA"
 msgstr ""
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "入力中に適用"
 
@@ -550,6 +561,9 @@ msgstr "アルゼンチン"
 
 msgid "Armenian"
 msgstr "アルメニア語"
+
+msgid "Arrange All"
+msgstr "整列"
 
 msgid "Arrange\nAll"
 msgstr "整列"
@@ -1833,6 +1847,12 @@ msgstr "小数点揃え"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "装飾用のオブジェクトは見た目を整えるだけなので、スクリーン リーダーは読み上げません。"
 
+msgid "Decorative Text"
+msgstr "装飾文字"
+
+msgid "Decorative Text Styles"
+msgstr "装飾文字のスタイル"
+
 msgid "Decrease Indent"
 msgstr "インデントを減らす"
 
@@ -1956,6 +1976,15 @@ msgstr "開発ビルド"
 msgid "Diagonal Dots"
 msgstr ""
 
+msgid "Diagram"
+msgstr "図解"
+
+msgid "Diagram Design"
+msgstr "図解のデザイン"
+
+msgid "Diagram Styles"
+msgstr "図解のスタイル"
+
 msgid "Dictate"
 msgstr "ディクテーション"
 
@@ -2006,6 +2035,9 @@ msgstr "Discord コミュニティ"
 
 msgid "Display for Review"
 msgstr "変更内容の表示"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "表示テキスト"
@@ -2338,6 +2370,9 @@ msgid "Elbow Connector"
 msgstr "カギ線コネクタ"
 
 msgid "Emphasis"
+msgstr ""
+
+msgid "Emphasis Mark"
 msgstr ""
 
 msgid "Empty Matrices"
@@ -2693,6 +2728,9 @@ msgstr "ページ上で位置を固定する"
 
 msgid "Fixed Column Width"
 msgstr "列の幅を固定する"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3214,6 +3252,9 @@ msgstr "条件 (If…Then…Else)"
 msgid "If…Then…Else…"
 msgstr "条件 (If…Then…Else)…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "句読点を無視する"
 
@@ -3369,6 +3410,9 @@ msgstr "右に列を挿入"
 
 msgid "Insert Date Field"
 msgstr "日付フィールドの挿入"
+
+msgid "Insert Diagram"
+msgstr "図解を挿入"
 
 msgid "Insert Endnote"
 msgstr "文末脚注の挿入"
@@ -3550,6 +3594,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3624,6 +3671,9 @@ msgstr "手紙を書いているようですね。封筒を用意しますか? �
 
 msgid "Italy"
 msgstr "イタリア"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "辞書を読み込めませんでした: {reason}"
@@ -3701,6 +3751,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4007,6 +4060,9 @@ msgstr "リンクと参照"
 msgid "Link…"
 msgstr "リンク…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "リストの定義"
 
@@ -4252,6 +4308,9 @@ msgstr "見開きページ"
 
 msgid "Mirrored"
 msgstr "見開きページ"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0。Copyright (c) 2026 ArtCraft チームおよび WordCraft の貢献者。"
@@ -4583,6 +4642,9 @@ msgstr "このビルドにはモデルのクレジットが含まれていませ
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr "ほかに開いている WordCraft のウィンドウはありません。"
+
 msgid "No Outline"
 msgstr "輪郭なし"
 
@@ -4880,6 +4942,9 @@ msgstr ""
 msgid "Only the allowed styles can be applied."
 msgstr "使用を許可されたスタイルだけを適用できます。"
 
+msgid "only the desktop app has several windows"
+msgstr ""
+
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "開けるのは Web（http、https）とメール（mailto）のリンクだけです"
 
@@ -4898,6 +4963,9 @@ msgstr "システムのファイル ダイアログが表示されないとき�
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument テキスト (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "印刷ダイアログを開いています…"
@@ -6066,6 +6134,9 @@ msgstr "先にグラフを選択してください"
 msgid "select a connector first"
 msgstr "先にコネクタを選択してください"
 
+msgid "select a diagram first"
+msgstr "先に図解を選択してください"
+
 msgid "select a drawing canvas first"
 msgstr "先に描画キャンバスを選択してください"
 
@@ -6099,6 +6170,9 @@ msgstr ""
 msgid "select a shape first"
 msgstr "先に図形を選択してください"
 
+msgid "select a shape or decorative text first"
+msgstr "先に図形または装飾文字を選択してください"
+
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "塗りつぶしを設定する図形、テキスト ボックス、または描画キャンバスを選択してください。"
 
@@ -6110,6 +6184,9 @@ msgstr "先にテキスト ボックスを選択してください"
 
 msgid "select a text box linked to another first"
 msgstr "先に別のボックスにリンクされたテキスト ボックスを選択してください"
+
+msgid "Select Canvas Member"
+msgstr ""
 
 msgid "Select Cell"
 msgstr "セルの選択"
@@ -6267,6 +6344,9 @@ msgstr "段落書式の設定"
 msgid "Set Proofing Language…"
 msgstr "校正言語の設定…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "種類:"
 
@@ -6275,6 +6355,9 @@ msgstr "網かけ"
 
 msgid "Shadow, glow and soft edges"
 msgstr "影、光彩、輪郭のぼかし"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "図形の塗りつぶし"
@@ -6437,6 +6520,9 @@ msgstr "コメントの表示"
 
 msgid "Showing the first {count} items."
 msgstr "最初の {count} 項目を表示しています。"
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "ツリーを表示します。各項目は所属する項目の下に置かれます。"
@@ -6768,6 +6854,12 @@ msgstr "都道府県"
 msgid "Statement   5.50\" × 8.50\""
 msgstr ""
 
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
 msgid "Still there? I can hear you thinking."
 msgstr "まだいます? 考えている音が聞こえますよ。"
 
@@ -6922,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "モードの切り替え"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "ウィンドウの切り替え"
 
 msgid "Switch\nModes"
 msgstr "モードの切り替え"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "ウィンドウの\n切り替え"
 
 msgid "Switzerland"
 msgstr "スイス"
+
+msgid "Synchronous Scrolling"
+msgstr "同時にスクロール"
 
 msgid "Synonyms"
 msgstr "類義語"
@@ -7291,6 +7386,12 @@ msgstr ""
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "このグラフは別のプログラムで作成されました: WordCraft で表示できますが編集はできません"
 
+msgid "this diagram can't be edited"
+msgstr "この図解は編集できません"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "この図解は別のプログラムで作成されました。WordCraft では表示できますが編集できません"
+
 msgid "This document"
 msgstr "この文書"
 
@@ -7490,6 +7591,9 @@ msgstr ""
 msgid "Turkish"
 msgstr "トルコ語"
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7625,6 +7729,11 @@ msgstr "英国"
 msgid "United States"
 msgstr "米国"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "不明な装飾文字のスタイル `{id}`"
+
 msgid "Unlink Fields"
 msgstr "フィールドのリンク解除"
 
@@ -7750,6 +7859,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "グリッド線の表示"
+
+msgid "View Side by Side"
+msgstr "並べて比較"
 
 msgid "View State"
 msgstr "表示の状態"
@@ -7943,6 +8055,9 @@ msgstr "年"
 msgid "Yields"
 msgstr ""
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "しばらく保存していませんし、自動保存もオフです。今すぐ保存しますか?"
 
@@ -7998,6 +8113,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "差し込む宛先: {total} 件中 {count} 件"
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

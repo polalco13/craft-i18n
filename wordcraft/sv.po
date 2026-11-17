@@ -103,6 +103,11 @@ msgstr "<< Mindre"
 msgid "<< Remove"
 msgstr "<< Ta bort"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "ett diagram kan innehålla högst {MAX_ITEMS} objekt"
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "en rityta kan inte delas upp"
 
@@ -126,6 +131,9 @@ msgstr "En numrerad serie (figurer, tabeller…)"
 
 msgid "A password is required to open this document."
 msgstr "Det krävs ett lösenord för att öppna det här dokumentet."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
 
 msgid "A table of contents"
 msgstr "En innehållsförteckning"
@@ -517,6 +525,9 @@ msgstr "Alla som öppnar dokumentet behöver det här lösenordet."
 msgid "APA"
 msgstr "APA"
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "Använd medan du skriver"
 
@@ -550,6 +561,9 @@ msgstr "Argentina"
 
 msgid "Armenian"
 msgstr "armeniska"
+
+msgid "Arrange All"
+msgstr "Ordna alla"
 
 msgid "Arrange\nAll"
 msgstr "Ordna\nalla"
@@ -1833,6 +1847,12 @@ msgstr "Decimal"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "Dekorativa objekt är bara utsmyckning: skärmläsare hoppar över dem."
 
+msgid "Decorative Text"
+msgstr "Dekorativ text"
+
+msgid "Decorative Text Styles"
+msgstr "Format för dekorativ text"
+
 msgid "Decrease Indent"
 msgstr "Minska indraget"
 
@@ -1956,6 +1976,15 @@ msgstr "utvecklingsversion"
 msgid "Diagonal Dots"
 msgstr "Diagonala punkter"
 
+msgid "Diagram"
+msgstr "Diagram"
+
+msgid "Diagram Design"
+msgstr "Diagramdesign"
+
+msgid "Diagram Styles"
+msgstr "Diagramformat"
+
 msgid "Dictate"
 msgstr "Diktera"
 
@@ -2006,6 +2035,9 @@ msgstr "Discord-community"
 
 msgid "Display for Review"
 msgstr "Visning för granskning"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Visningstext"
@@ -2339,6 +2371,9 @@ msgstr "Vinklad koppling"
 
 msgid "Emphasis"
 msgstr "Betoning"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Tomma matriser"
@@ -2693,6 +2728,9 @@ msgstr "Fast position på sidan"
 
 msgid "Fixed Column Width"
 msgstr "Fast kolumnbredd"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr "Gör flytande"
@@ -3214,6 +3252,9 @@ msgstr "Om…så…annars"
 msgid "If…Then…Else…"
 msgstr "Om…så…annars…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Ignorera skiljetecken"
 
@@ -3369,6 +3410,9 @@ msgstr "Infoga kolumner till höger"
 
 msgid "Insert Date Field"
 msgstr "Infoga datumfält"
+
+msgid "Insert Diagram"
+msgstr "Infoga diagram"
 
 msgid "Insert Endnote"
 msgstr "Infoga slutnot"
@@ -3550,6 +3594,9 @@ msgstr "Snitt med undre gräns"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Snitt med gränser som index och exponent"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Invers cosekantfunktion"
 
@@ -3624,6 +3671,9 @@ msgstr "Det ser ut som att du skriver ett brev. Vill du ha ett kuvert till det, 
 
 msgid "Italy"
 msgstr "Italien"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Ordlistan kunde inte läsas: {reason}"
@@ -3701,6 +3751,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4007,6 +4060,9 @@ msgstr "Länkar och referenser"
 msgid "Link…"
 msgstr "Länk…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Listdefinition"
 
@@ -4252,6 +4308,9 @@ msgstr "Spegelvända marginaler"
 
 msgid "Mirrored"
 msgstr "Spegelvända"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft-teamet och WordCrafts bidragsgivare."
@@ -4583,6 +4642,9 @@ msgstr "Den här kopian innehåller inga uppgifter om medverkande AI-modeller."
 msgid "No new sources in that file"
 msgstr "Inga nya källor i den filen"
 
+msgid "No other WordCraft windows are open."
+msgstr "Inga andra WordCraft-fönster är öppna."
+
 msgid "No Outline"
 msgstr "Ingen kontur"
 
@@ -4880,6 +4942,9 @@ msgstr "Endast textegenskaper kan ändras."
 msgid "Only the allowed styles can be applied."
 msgstr "Bara de tillåtna stilarna kan användas."
 
+msgid "only the desktop app has several windows"
+msgstr "bara skrivbordsappen har flera fönster"
+
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Bara webblänkar (http, https) och e-postlänkar (mailto) kan följas"
 
@@ -4898,6 +4963,9 @@ msgstr "Öppna en fil med WordCrafts egen filbläddrare när systemets fildialog
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument-text (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Öppnar utskriftsdialogen…"
@@ -6066,6 +6134,9 @@ msgstr "markera ett diagram först"
 msgid "select a connector first"
 msgstr "markera en koppling först"
 
+msgid "select a diagram first"
+msgstr "markera först ett diagram"
+
 msgid "select a drawing canvas first"
 msgstr "markera en rityta först"
 
@@ -6099,6 +6170,9 @@ msgstr "Välj en egenskap att ändra."
 msgid "select a shape first"
 msgstr "markera en figur först"
 
+msgid "select a shape or decorative text first"
+msgstr "markera först en form eller dekorativ text"
+
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "Markera en form, en textruta eller en ritarea för att formatera fyllningen."
 
@@ -6110,6 +6184,9 @@ msgstr "markera en textruta först"
 
 msgid "select a text box linked to another first"
 msgstr "markera en textruta som är länkad till en annan först"
+
+msgid "Select Canvas Member"
+msgstr ""
 
 msgid "Select Cell"
 msgstr "Markera cell"
@@ -6267,6 +6344,9 @@ msgstr "Ange styckeformatering"
 msgid "Set Proofing Language…"
 msgstr "Ange korrekturspråk…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Inställning:"
 
@@ -6275,6 +6355,9 @@ msgstr "Skuggning"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Skugga, glöd och mjuka kanter"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Figurfyllning"
@@ -6437,6 +6520,9 @@ msgstr "Visa\nkommentarer"
 
 msgid "Showing the first {count} items."
 msgstr "Visar de första {count} objekten."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Visar ett träd: varje objekt under det objekt det hör till."
@@ -6768,6 +6854,12 @@ msgstr "Region"
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Statement   5,50\" × 8,50\""
 
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
 msgid "Still there? I can hear you thinking."
 msgstr "Är du kvar? Jag hör dig tänka."
 
@@ -6932,6 +7024,9 @@ msgstr "Växla\nfönster"
 
 msgid "Switzerland"
 msgstr "Schweiz"
+
+msgid "Synchronous Scrolling"
+msgstr "Synkron rullning"
 
 msgid "Synonyms"
 msgstr "Synonymer"
@@ -7291,6 +7386,12 @@ msgstr "Det här går inte att ångra. Originalfilen förblir oförändrad."
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "detta diagram skapades i ett annat program: WordCraft visar det men kan inte redigera det"
 
+msgid "this diagram can't be edited"
+msgstr "detta diagram kan inte redigeras"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "detta diagram skapades i ett annat program: WordCraft visar det men kan inte redigera det"
+
 msgid "This document"
 msgstr "Det här dokumentet"
 
@@ -7490,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "Turkiska"
 
+msgid "turn on View Side by Side first"
+msgstr "aktivera Visa sida vid sida först"
+
 msgid "Turquoise"
 msgstr "Turkos"
 
@@ -7625,6 +7729,11 @@ msgstr "Storbritannien"
 msgid "United States"
 msgstr "USA"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "okänt format för dekorativ text `{id}`"
+
 msgid "Unlink Fields"
 msgstr "Koppla bort fält"
 
@@ -7750,6 +7859,9 @@ msgstr "Visa och redigera dokumentets anpassade egenskaper."
 
 msgid "View Gridlines"
 msgstr "Visa stödlinjer"
+
+msgid "View Side by Side"
+msgstr "Visa sida vid sida"
 
 msgid "View State"
 msgstr "Visningstillstånd"
@@ -7943,6 +8055,9 @@ msgstr "År"
 msgid "Yields"
 msgstr "Ger"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Du har inte sparat på ett tag, och Autospara är av. Spara nu?"
 
@@ -7999,6 +8114,9 @@ msgstr "{count} av {total} mottagare kopplas."
 
 msgid "{field}, record {n}"
 msgstr "{field}, post {n}"
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
 
 msgid "{group} settings"
 msgstr "Inställningar för {group}"

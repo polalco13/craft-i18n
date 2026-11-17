@@ -103,6 +103,11 @@ msgstr ""
 msgid "<< Remove"
 msgstr ""
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr ""
 
@@ -125,6 +130,9 @@ msgid "A numbered sequence (figures, tables…)"
 msgstr ""
 
 msgid "A password is required to open this document."
+msgstr ""
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
 msgstr ""
 
 msgid "A table of contents"
@@ -517,6 +525,9 @@ msgstr ""
 msgid "APA"
 msgstr ""
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr ""
 
@@ -549,6 +560,9 @@ msgid "Argentina"
 msgstr ""
 
 msgid "Armenian"
+msgstr ""
+
+msgid "Arrange All"
 msgstr ""
 
 msgid "Arrange\nAll"
@@ -1833,6 +1847,12 @@ msgstr ""
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr ""
 
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
 msgid "Decrease Indent"
 msgstr ""
 
@@ -1956,6 +1976,15 @@ msgstr ""
 msgid "Diagonal Dots"
 msgstr ""
 
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
+msgstr ""
+
+msgid "Diagram Styles"
+msgstr ""
+
 msgid "Dictate"
 msgstr ""
 
@@ -2005,6 +2034,9 @@ msgid "Discord community"
 msgstr ""
 
 msgid "Display for Review"
+msgstr ""
+
+msgid "Display server:"
 msgstr ""
 
 msgid "Display text"
@@ -2338,6 +2370,9 @@ msgid "Elbow Connector"
 msgstr ""
 
 msgid "Emphasis"
+msgstr ""
+
+msgid "Emphasis Mark"
 msgstr ""
 
 msgid "Empty Matrices"
@@ -2692,6 +2727,9 @@ msgid "Fix Position on Page"
 msgstr ""
 
 msgid "Fixed Column Width"
+msgstr ""
+
+msgid "Flat OpenDocument Text (*.fodt)"
 msgstr ""
 
 msgid "Float"
@@ -3214,6 +3252,9 @@ msgstr ""
 msgid "If…Then…Else…"
 msgstr ""
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr ""
 
@@ -3368,6 +3409,9 @@ msgid "Insert Columns to the Right"
 msgstr ""
 
 msgid "Insert Date Field"
+msgstr ""
+
+msgid "Insert Diagram"
 msgstr ""
 
 msgid "Insert Endnote"
@@ -3550,6 +3594,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3623,6 +3670,9 @@ msgid "It looks like you're writing a letter. Want an envelope for it, or a lett
 msgstr ""
 
 msgid "Italy"
+msgstr ""
+
+msgid "Item Color"
 msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
@@ -3701,6 +3751,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4007,6 +4060,9 @@ msgstr ""
 msgid "Link…"
 msgstr ""
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr ""
 
@@ -4251,6 +4307,9 @@ msgid "Mirror margins"
 msgstr ""
 
 msgid "Mirrored"
+msgstr ""
+
+msgid "Missing Fonts"
 msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
@@ -4583,6 +4642,9 @@ msgstr ""
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr ""
 
@@ -4880,6 +4942,9 @@ msgstr ""
 msgid "Only the allowed styles can be applied."
 msgstr ""
 
+msgid "only the desktop app has several windows"
+msgstr ""
+
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr ""
 
@@ -4897,6 +4962,9 @@ msgid "Open a file with WordCraft's own browser when the system file dialog does
 msgstr ""
 
 msgid "OpenDocument Text (*.odt)"
+msgstr ""
+
+msgid "OpenDocument Text Template (*.ott)"
 msgstr ""
 
 msgid "Opening print dialog…"
@@ -6066,6 +6134,9 @@ msgstr ""
 msgid "select a connector first"
 msgstr ""
 
+msgid "select a diagram first"
+msgstr ""
+
 msgid "select a drawing canvas first"
 msgstr ""
 
@@ -6099,6 +6170,9 @@ msgstr ""
 msgid "select a shape first"
 msgstr ""
 
+msgid "select a shape or decorative text first"
+msgstr ""
+
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr ""
 
@@ -6109,6 +6183,9 @@ msgid "select a text box first"
 msgstr ""
 
 msgid "select a text box linked to another first"
+msgstr ""
+
+msgid "Select Canvas Member"
 msgstr ""
 
 msgid "Select Cell"
@@ -6267,6 +6344,9 @@ msgstr ""
 msgid "Set Proofing Language…"
 msgstr ""
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr ""
 
@@ -6274,6 +6354,9 @@ msgid "Shading"
 msgstr ""
 
 msgid "Shadow, glow and soft edges"
+msgstr ""
+
+msgid "Shape color"
 msgstr ""
 
 msgid "Shape Fill"
@@ -6436,6 +6519,9 @@ msgid "Show\nComments"
 msgstr ""
 
 msgid "Showing the first {count} items."
+msgstr ""
+
+msgid "Shown in substitute fonts. Click for details."
 msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
@@ -6768,6 +6854,12 @@ msgstr ""
 msgid "Statement   5.50\" × 8.50\""
 msgstr ""
 
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
 msgid "Still there? I can hear you thinking."
 msgstr ""
 
@@ -6931,6 +7023,9 @@ msgid "Switch\nWindows"
 msgstr ""
 
 msgid "Switzerland"
+msgstr ""
+
+msgid "Synchronous Scrolling"
 msgstr ""
 
 msgid "Synonyms"
@@ -7291,6 +7386,12 @@ msgstr ""
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr ""
 
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
 msgid "This document"
 msgstr ""
 
@@ -7490,6 +7591,9 @@ msgstr ""
 msgid "Turkish"
 msgstr ""
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7625,6 +7729,11 @@ msgstr ""
 msgid "United States"
 msgstr ""
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
+
 msgid "Unlink Fields"
 msgstr ""
 
@@ -7749,6 +7858,9 @@ msgid "View and edit the document's custom properties."
 msgstr ""
 
 msgid "View Gridlines"
+msgstr ""
+
+msgid "View Side by Side"
 msgstr ""
 
 msgid "View State"
@@ -7943,6 +8055,9 @@ msgstr ""
 msgid "Yields"
 msgstr ""
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr ""
 
@@ -7998,6 +8113,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr ""
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"
